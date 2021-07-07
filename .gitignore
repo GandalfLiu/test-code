@@ -1,0 +1,6 @@
+__pycache__
+.idea
+p4tools.py
+start.py
+test.py
+auto_sync.py
